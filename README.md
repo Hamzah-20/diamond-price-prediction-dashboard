@@ -202,6 +202,36 @@ http://localhost:8501
 
 ---
 
+# Live Demo
+
+Live Demo:  
+[Diamond Pricing Intelligence Dashboard](https://diamond-price-prediction-dashboard-snwf2qbkmkzyr6ftghppxi.streamlit.app/)
+---
+
+# Application Preview
+
+## Dashboard Overview
+
+<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/7ae87c31-90e4-4199-973e-7d007fa6ebc0" />
+
+## Advanced Exploratory Data Analysis
+
+<img width="1783" height="411" alt="image" src="https://github.com/user-attachments/assets/6f5bd982-c181-4029-ba80-799229d1b607" />
+
+## Model Performance Comparison
+
+<img width="1809" height="764" alt="image" src="https://github.com/user-attachments/assets/b774ca45-a9bd-48ca-a3df-5a2ca377428a" />
+
+## Real Feature Importance Analysis
+
+<img width="1836" height="517" alt="image" src="https://github.com/user-attachments/assets/00140f1e-546d-4225-9157-86e2fc24776f" />
+
+## Business Impact & ROI Analysis
+
+<img width="1775" height="651" alt="a2237884-d19e-4761-ab05-fd83155c63a0" src="https://github.com/user-attachments/assets/a77efb54-9d25-4e16-9c7c-e85eeaf6508e" />
+
+---
+
 # Application Features
 
 ## Dashboard Analytics
